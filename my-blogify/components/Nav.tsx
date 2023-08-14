@@ -21,7 +21,7 @@ function Nav() {
         <Link href={"/tag/photography"} className="m-0 text-xs sm:text-lg md:text-lg lg:text-lg xl:text-lg 2xl:text-lg">Photography</Link>
         <Link href={"/tag/android"} className="m-0 text-xs sm:text-lg md:text-lg lg:text-lg xl:text-lg 2xl:text-lg">Android</Link>
         <Link href={"/tag/smart-phone"} className="m-0 text-xs sm:text-lg md:text-lg lg:text-lg xl:text-lg 2xl:text-lg">Smart Phone</Link>
-        <Link href={"/page/about"} className="m-0 text-xs sm:text-lg md:text-lg lg:text-lg xl:text-lg 2xl:text-lg">About</Link>
+        <Link href={"/about"} className="m-0 text-xs sm:text-lg md:text-lg lg:text-lg xl:text-lg 2xl:text-lg">About</Link>
 
       </nav>
       <div className="hidden sm:hidden md:hidden lg:flex xl:flex 2xl:flex flex-row justify-between items-center">
