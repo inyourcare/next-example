@@ -1,5 +1,9 @@
 # NextJS 예제용 Repository 입니다.
-
+## 예제 활용
+이 레포지토리에 my-blogify 예제를 사용하려면 아래 명령어를 사용하세요
+```
+yarn create next-app -e https://github.com/inyourcare/next-example/tree/main/my-blogify
+```
 ## Prisma
 ### 설치
 ```
