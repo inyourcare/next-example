@@ -38,3 +38,9 @@ package.json 에 다음 내용 추가
 yarn add -D ts-node typescript @types/node
 npx prisma db seed
 ```
+
+
+## Markdown
+```
+yarn add markdown-to-jsx gray-matter
+```
